@@ -3,11 +3,11 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzuman-hasanov&label=Profile%20views&color=0e75b6&style=flat" alt="arzuman-hasanov" /> </p>
 
-- Linkedin **https://www.linkedin.com/in/arzumanhsnv/**
+- Linkedin: **https://www.linkedin.com/in/arzumanhsnv/**
 
-- E-mail **hasanovarzuman7@gmail.com**
+- E-mail: **hasanovarzuman7@gmail.com**
 
-- Fun fact **I am a chess player https://lichess.org/@/vonsi**
+- Fun fact: **I am a chess player https://lichess.org/@/vonsi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
