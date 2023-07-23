@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I am Arzuman Hasanov</h1>
 <h3 align="center">I’m a Front-End developer. I spend my whole day, experimenting with React, Javascript, HTML and CSS. I build websites that delight and inform. I do it well.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" alt="Coding">
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="arzuman-hasanov" /> </p>
 
 - Linkedin: **https://www.linkedin.com/in/arzumanhsnv/**
 
