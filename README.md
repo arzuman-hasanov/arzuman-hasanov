@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Arzuman Hasanov</h1>
 <h3 align="center">I’m a Front-End developer. I spend my whole day, experimenting with React, Javascript, HTML and CSS. I build websites that delight and inform. I do it well.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" alt="Coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzuman-hasanov&label=Profile%20views&color=0e75b6&style=flat" alt="arzuman-hasanov" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="arzuman-hasanov" /> </p>
 
 - Linkedin: **https://www.linkedin.com/in/arzumanhsnv/**
 
