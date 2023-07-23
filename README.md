@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Arzuman Hasanov</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF70A&width=435&lines=Hi%2C+I'm+Arzuman+Hasanov)](https://git.io/typing-svg)
 <h3 align="center">I’m a Front-End developer. I spend my whole day, experimenting with React, Javascript, HTML and CSS. I build websites that delight and inform. I do it well.</h3>
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" alt="Coding">
 
