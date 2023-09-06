@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF70A&width=435&lines=Hi%2C+I'm+Arzuman+Hasanov)](https://git.io/typing-svg)
 <h3 align="center">I’m a Front-End developer. I spend my whole day, experimenting with React, Javascript, HTML and CSS. I build websites that delight and inform. I do it well.</h3>
-<img align="right" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" width="400" alt="Coding">
+<img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="Coding">
 
 - Linkedin: **https://www.linkedin.com/in/arzumanhsnv/**
 
