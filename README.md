@@ -3,8 +3,6 @@
 Adaptable and collaborative, I am eager to apply my skills to real-world challenges and drive innovative solutions.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="Coding">
 
-- Linkedin: **https://www.linkedin.com/in/arzumanhsnv/**
-
 - E-mail: **hasanovarzuman7@gmail.com**
 
 - I am a chess player https://lichess.org/@/arzuman1
