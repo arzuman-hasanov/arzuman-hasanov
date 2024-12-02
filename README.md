@@ -7,7 +7,7 @@ Adaptable and collaborative, I am eager to apply my skills to real-world challen
 
 - E-mail: **hasanovarzuman7@gmail.com**
 
-- Fun fact: **I am a chess player https://lichess.org/@/arzuman1
+- Fun fact: I am a chess player https://lichess.org/@/arzuman1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
