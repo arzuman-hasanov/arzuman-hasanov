@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF70A&width=435&lines=Hi%2C+I'm+Arzuman+Hasanov)](https://git.io/typing-svg)
-<h3 align="center"> Motivated Master’s student in Data Science and Artificial Intelligence at the French-Azerbaijani University. 
+<h3 align="center"> Data Science and Artificial Intelligence Graduate of the French-Azerbaijani University. 
 Adaptable and collaborative, I am eager to apply my skills to real-world challenges and drive innovative solutions.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="400" alt="Coding">
 
