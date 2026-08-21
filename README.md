@@ -5,7 +5,7 @@ Adaptable and collaborative, I am eager to apply my skills to real-world challen
 
 - E-mail: **hasanovarzuman7@gmail.com**
 - Kaggle: www.kaggle.com/voneseh
-- I am a chess player: lichess.org/@/arzuman1
+- I am a chess player: www.lichess.org/@/arzuman1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
